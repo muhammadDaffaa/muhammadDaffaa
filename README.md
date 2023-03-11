@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammadDaffaa
 - 👀 I’m interested in PROJECT
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA PROJECT
+- 💞️ I’m looking to collaborate on C#, Dotnet PROJECT
 - 📫 How to reach me JUST CONTACT ME !!
 
 <!---
