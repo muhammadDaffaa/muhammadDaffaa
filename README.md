@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @muhammadDaffaa
-- 👀 I’m interested in PROJECT
+- 👀 I’m interested in All of Projects about JAVA
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on C#, Dotnet PROJECT
-- 📫 How to reach me JUST CONTACT ME !!
+- 💞️ I’m looking to collaborate on JAVA Project
+- 📫 How to reach me just visit DM My LinkedIn !!
 
 <!---
 muhammadDaffaa/muhammadDaffaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
