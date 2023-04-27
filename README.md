@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @muhammadDaffaa<br>- 👀 I’m interested in All of Projects about JAVA<br>- 🌱 I’m currently learning JAVA<br>- 👯 I’m looking to collaborate on JAVA Project<br>- 📫 How to reach me just visit DM My LinkedIn !<br>-⚡ I try my best learning for every new technologies<br>- 🔭 I want to work as Data Engineer
+-👋 Hi, I’m @muhammadDaffaa<br>- 👀 I’m interested in All of Projects about JAVA<br>- 🌱 I’m currently learning JAVA<br>- 👯 I’m looking to collaborate on JAVA Project<br>- 📫 How to reach me just visit and direct message to My LinkedIn !<br>-⚡ I try my best learning for every new technologies<br>- 🔭 I want to work as Data Engineer
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AESSA#7636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-daffa/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16737452) 
