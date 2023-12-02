@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!-- -👋 Hi, I’m @muhammadDaffaa<br>- 👀 I’m interested in All of Projects about Python for Data Engineer<br>- 🌱 I’m currently learning Python & Tools of Data Engineer<br>- 👯 I’m looking to collaborate on Data Project<br>- 📫 How to reach me just visit and direct message to My LinkedIn !<br>-⚡ I keep try my best learning for every new technologies<br>- 🔭 I want to work as Data Engineer-->
 
--👋 Hi, I’m @muhammadDaffaa<br>- 👀 I’m interested in All of Projects about Python for Data Engineer<br>- 🌱 I’m currently learning Python & Tools of Cloud Architect<br>- 📫 How to reach me just visit and direct message to My LinkedIn !<br>-⚡ I keep try my best learning for every new technologies<br>- 🔭 I want to work as Cyber Security or Kind of Networking
+-👋 Hi, I’m @muhammadDaffaa<br>- 👀 I’m currently working as Solution Architect<br>- 🌱 I’m currently learning Python & Tools of Cloud Architect<br>- 📫 How to reach me just visit and direct message to My LinkedIn !<br>-⚡ I keep try my best learning for every new technologies<br>- 🔭 I want to work as Cyber Security or Kind of Networking
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AESSA#7636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-daffa/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16737452) 
